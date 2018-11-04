@@ -3,7 +3,7 @@
     "name": "Meowsy",
     "species" : "cat",
     "birthYear": "2012",
-    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
@@ -23,7 +23,7 @@
     "name": "Purrpaws",
     "species" : "cat",
     "birthYear": "2012",
-    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
