@@ -26,4 +26,31 @@
       "dislikes": ["cookies"]
     }
   }
+    {
+    "name": "Whiskers",
+    "species" : "cat",
+	"age" : "7",
+    "foods": {
+      "likes": ["celery", "strawberries"],
+      "dislikes": ["carrots"]
+    }
+  },
+  {
+    "name": "Woof",
+    "species" : "dog",
+	"age" : "10",
+    "foods": {
+      "likes": ["dog food"],
+      "dislikes": ["cat food"]
+    }
+  },
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+	"age" : "3",
+    "foods": {
+      "likes": ["canned food"],
+      "dislikes": ["dry food"]
+    }
+  }
 ]
