@@ -2,7 +2,7 @@
   {
     "name": "Meowsy",
     "species" : "cat",
-	"age" : "2";
+	"age" : "2",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
@@ -11,7 +11,7 @@
   {
     "name": "Barky",
     "species" : "dog",
-	"age" : "10";
+	"age" : "10",
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
@@ -20,7 +20,7 @@
   {
     "name": "Purrpaws",
     "species" : "cat",
-	"age" : "5";
+	"age" : "5",
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
