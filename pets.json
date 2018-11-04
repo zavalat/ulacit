@@ -52,5 +52,32 @@
       "likes": ["canned food"],
       "dislikes": ["dry food"]
     }
+  },
+    {
+    "name": "Kitty",
+    "species" : "cat",
+	"age" : "7",
+    "foods": {
+      "likes": ["fresh food"],
+      "dislikes": ["stale food"]
+    }
+  },
+  {
+    "name": "Pupster",
+    "species" : "dog",
+	"age" : "6",
+    "foods": {
+      "likes": ["tomatoes", "peas"],
+      "dislikes": ["bread"]
+    }
+  },
+  {
+    "name": "Tux",
+    "species" : "cat",
+	"age" : "9",
+    "foods": {
+      "likes": ["fancy dishes"],
+      "dislikes": ["basic cat food"]
+    }
   }
 ]
