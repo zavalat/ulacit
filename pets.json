@@ -5,7 +5,7 @@
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
-    }
+    },
 	"age":"5"
   },
   {
@@ -14,7 +14,7 @@
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
-    }
+    },
 	"age":"12"
   },
   {
@@ -23,7 +23,7 @@
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
-    }
+    },
 	"age":"8"
   }
    {
@@ -32,7 +32,7 @@
     "foods": {
       "likes": ["celery", "strawberries"],
       "dislikes": ["carrots"]
-    }
+    },
 	"age":"4"
   },
   {
@@ -41,7 +41,7 @@
     "foods": {
       "likes": ["dog food"],
       "dislikes": ["cat food"]
-    }
+    },
 	"age":"5"
   },
   {
@@ -50,7 +50,7 @@
     "foods": {
       "likes": ["canned food"],
       "dislikes": ["dry food"]
-    }
+    },
 	"age":"8"
   }
     {
@@ -59,15 +59,16 @@
     "foods": {
       "likes": ["fresh food"],
       "dislikes": ["stale food"]
-    }
-  },
+    },
+		"age":"6"
+  }
   {
     "name": "Pupster",
     "species" : "dog",
     "foods": {
       "likes": ["tomatoes", "peas"],
       "dislikes": ["bread"]
-    }
+    },
 	"age":"10"
   },
   {
@@ -76,7 +77,7 @@
     "foods": {
       "likes": ["fancy dishes"],
       "dislikes": ["basic cat food"]
-    }
+    },
 		"age":"1"
   }
 ]
