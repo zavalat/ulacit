@@ -2,7 +2,8 @@
   {
     "name": "Meowsy",
     "species" : "cat",
-	"age" : "2",
+    "birthYear": "2012",
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
@@ -11,7 +12,8 @@
   {
     "name": "Barky",
     "species" : "dog",
-	"age" : "10",
+    "birthYear": "2008",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
@@ -20,7 +22,8 @@
   {
     "name": "Purrpaws",
     "species" : "cat",
-	"age" : "5",
+    "birthYear": "2012",
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
@@ -29,7 +32,8 @@
     {
     "name": "Whiskers",
     "species" : "cat",
-	"age" : "7",
+    "birthYear": "2008",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
     "foods": {
       "likes": ["celery", "strawberries"],
       "dislikes": ["carrots"]
@@ -38,7 +42,8 @@
   {
     "name": "Woof",
     "species" : "dog",
-	"age" : "10",
+    "birthYear": "2008",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
     "foods": {
       "likes": ["dog food"],
       "dislikes": ["cat food"]
@@ -47,7 +52,8 @@
   {
     "name": "Fluffy",
     "species" : "cat",
-	"age" : "3",
+    "birthYear": "2012",
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
     "foods": {
       "likes": ["canned food"],
       "dislikes": ["dry food"]
@@ -56,7 +62,8 @@
     {
     "name": "Kitty",
     "species" : "cat",
-	"age" : "7",
+    "birthYear": "2012",
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
     "foods": {
       "likes": ["fresh food"],
       "dislikes": ["stale food"]
@@ -65,7 +72,8 @@
   {
     "name": "Pupster",
     "species" : "dog",
-	"age" : "6",
+    "birthYear": "2008",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
     "foods": {
       "likes": ["tomatoes", "peas"],
       "dislikes": ["bread"]
@@ -74,7 +82,8 @@
   {
     "name": "Tux",
     "species" : "cat",
-	"age" : "9",
+    "birthYear": "2008",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
     "foods": {
       "likes": ["fancy dishes"],
       "dislikes": ["basic cat food"]
