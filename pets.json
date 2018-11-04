@@ -7,7 +7,7 @@
       "dislikes": ["ham", "zucchini"]
     },
 	"age":"5"
-  },
+  }
   {
     "name": "Barky",
     "species" : "dog",
@@ -16,7 +16,7 @@
       "dislikes": ["tuna"]
     },
 	"age":"12"
-  },
+  }
   {
     "name": "Purrpaws",
     "species" : "cat",
@@ -34,7 +34,7 @@
       "dislikes": ["carrots"]
     },
 	"age":"4"
-  },
+  }
   {
     "name": "Woof",
     "species" : "dog",
@@ -43,7 +43,7 @@
       "dislikes": ["cat food"]
     },
 	"age":"5"
-  },
+  }
   {
     "name": "Fluffy",
     "species" : "cat",
@@ -70,7 +70,7 @@
       "dislikes": ["bread"]
     },
 	"age":"10"
-  },
+  }
   {
     "name": "Tux",
     "species" : "cat",
