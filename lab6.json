@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]},
+	"photo": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/04/19/Recortada/img_scolome_20180419-170551_imagenes_lv_getty_istock-626464158-k6yB-U442737524989vlB-992x558@LaVanguardia-Web.jpg",
+	"birthyear": 2015
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": [" bones", " carrots"],
+      "dislikes": [" tuna"]},
+	"photo": "http://as01.epimg.net/epik/imagenes/2018/04/28/portada/1524913221_572475_1524913364_noticia_normal.jpg",
+    "birthyear": 2018
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": [" mice"],
+      "dislikes": [" cookies"]},
+	"photo": "https://smoda.elpais.com/wp-content/uploads/images/201351/cover_188.jpg",
+	"birthyear": 2017
+  },
+
+
+  {
+    "name": "Whiskers",
+    "species" : "cat",
+    "foods": {
+      "likes": [" celery", " strawberries"],
+      "dislikes": [" carrots"]},
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
+	"birthyear": 2015
+  },
+  {
+    "name": "Woof",
+    "species" : "dog",
+    "foods": {
+      "likes": [" dog food"],
+      "dislikes": [" cat food"]},
+	"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0lhORMTePwz4Q4xtq-PSWMnh9Wc7qVmwmEUXtC6atmBTqgsiZcQ",
+	"birthyear": 2008
+  },
+  {
+    "name": "Fluffy",
+    "species" : "cat",
+    "foods": {
+      "likes": [" canned food"],
+      "dislikes": [" dry food"]},
+	"photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+	"birthyear": 2018
+  },
+
+  {
+    "name": "Kitty",
+    "species" : "cat",
+    "foods": {
+      "likes": [" fresh food"],
+      "dislikes": [" stale food"]},
+	"photo": "https://static.hogarmania.com/archivos/201805/mascotas-gatos-razas-azul-ruso-848x477x80xX.jpg",
+	"birthyear": 2014
+  },
+  {
+    "name": "Pupster",
+    "species" : "dog",
+    "foods": {
+      "likes": [" tomatoes", " peas"],
+      "dislikes": [" bread"]},
+	 "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
+	 "birthyear": 2010   
+  },
+  {
+    "name": "Tux",
+    "species" : "cat",
+    "foods": {
+      "likes": [" fancy dishes"],
+      "dislikes": [" basic cat food"]},
+	 "photo": "http://as01.epimg.net/epik/imagenes/2017/08/18/portada/1503050853_074991_1503050982_noticia_normal.jpg",
+	 "birthyear": 2017
+    }
+]
