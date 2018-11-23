@@ -22,9 +22,9 @@ Mr. T
 -----------------
 
 Pattern: Password 
-Al menos un caracter numérico
-Al menos un caracter en minúscula
-Al menos un caractar en mayúscula
+Al menos un caracter numerico
+Al menos un caracter en minuscula
+Al menos un caractar en mayuscula
 De 8 a 10 caracteres
 
 -----------------
