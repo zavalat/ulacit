@@ -1,0 +1,31 @@
+Pattern: Que encuentre 321-555-4321
+
+-----------------
+
+Pattern: Cualquiera de los siguientes strings:
+Datos a probar:
+321-555-4321
+123.555.1234
+123*555*1234
+
+-----------------
+
+Pattern: Cualquier String que inicia con la palabra Mr
+
+Datos a probar:
+Mr. Schafer
+Mr Smith
+Ms Davis
+Mrs Robinson
+Mr. T
+
+-----------------
+
+Pattern: Password 
+Al menos un caracter numérico
+Al menos un caracter en minúscula
+Al menos un caractar en mayúscula
+De 8 a 10 caracteres
+
+String Pattern: Hex Value
+Prueba: #a3c113
