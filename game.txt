@@ -27,5 +27,7 @@ Al menos un caracter en minúscula
 Al menos un caractar en mayúscula
 De 8 a 10 caracteres
 
+-----------------
+
 String Pattern: Hex Value
 Prueba: #a3c113
