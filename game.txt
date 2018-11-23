@@ -21,7 +21,7 @@ Mr. T
 
 -----------------
 
-Pattern: Password 
+Pattern: Un Password 
 Al menos un caracter numerico
 Al menos un caracter en minuscula
 Al menos un caractar en mayuscula
@@ -29,5 +29,5 @@ De 8 a 10 caracteres
 
 -----------------
 
-String Pattern: Hex Value
+Pattern: Hex Value
 Prueba: #a3c113
